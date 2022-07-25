@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Batman",
+    "id": "1",
+    "firstname": "Bruce",
+    "lastname": "Wayne",
+    "current": " 2011 - present",
+    "gender": "male",
+    "type": "Hero",
+    "featured_image": "./images/Batman_Urban_Legends_Vol_1_5_Textless.webp",
+    "description": "Batman est le super-héros protecteur de Gotham City , un homme habillé comme une chauve-souris qui lutte contre le mal et sème la terreur dans le cœur des criminels du monde entier. Dans son identité secrète, il prend le pseudonyme de Bruce Wayne , industriel milliardaire et playboy notoire ; bien que \"Bruce Wayne\" soit techniquement son vrai nom, ce Bruce Wayne est un déguisement - celui de l'homme qu'il aurait été si ses parents n'avaient pas été assassinés sous ses yeux alors qu'il n'était qu'un simple garçon. Bien que Batman ne possède aucun pouvoir surhumain, il est l'un des hommes les plus intelligents et des plus grands combattants du monde. Ses prouesses physiques et son ingéniosité technique font de lui un adversaire incroyablement dangereux. Il est également membre fondateur de la Justice League et des Outsiders . Dick Grayson , le premier \"orphelin du crime\" à assumer l'identité de Robin et à être surnommé \"The Boy Wonder\", qui utilise actuellement le pseudonyme de Nightwing , est le successeur trié sur le volet de Wayne. Batman a été créé par l'écrivain Bill Finger et l'artiste Bob Kane , apparaissant pour la première fois dans Detective Comics #27 . ( 1939 ) Depuis lors, Batman est l'un des personnages les plus connus de DC Comics rivalisant avec Superman et Wonder Woman , tout au long de son histoire de publication et même dans d'autres médias. Cela s'étend également à son casting de soutien et à sa galerie de voyous , en particulier son ennemi juré le Joker ."
+  },
+  {
+    "name": "Robin",
+    "id": "2",
+    "firstname": "Damian",
+    "lastname": "Wayne",
+    "current": " 2011 - present",
+    "gender": "male",
+    "type": "Hero",
+    "featured_image": "./images/Teen_Titans_Rebirth_Vol_1_1_Textless.webp",
+    "description": "Robin est le poste d'acolyte et de partenaire de Batman dans la lutte contre le crime, un justicier adolescent qui patrouille dans Gotham City, armé de capacités intensives en arts martiaux et d'un certain nombre de gadgets de haute technologie. Il y en a eu cinq en tant que membres de la famille Batman dans une continuité régulière. Le premier Robin était Dick Grayson , un jeune acrobate de cirque dont les parents avaient été tués par des gangsters. Bruce Wayne a été témoin des meurtres et l'a pris comme pupille juridique pour le guider à travers la tragédie et l'aider à trouver une direction. Grayson finira par dépasser son poste et prendra le nom de Nightwing pendant de nombreuses années, avant de finalement devenir un remplaçant.Batman lui-même. Jason Todd était le deuxième Robin, un autre orphelin, un jeune en difficulté en danger de devenir un voyou de la rue jusqu'à ce que Batman l'accueille et fournisse un exutoire à son agression. Jason a été assassiné par le Joker , une tragédie et un échec qui ont hanté Batman pendant de nombreuses années. Ressuscité pendant Infinite Crisis , il a depuis adopté le personnage anti-héros violent Red Hood . Le troisième Robin était Tim Drake, remarquable pour rechercher le poste au lieu d'être approché pour cela. Il est lui-même un grand détective et a découvert par lui-même les identités secrètes de Batman et de Nightwing, expliquant que Batman avait besoin d'un Robin pour l'équilibrer et l'empêcher de devenir trop sombre et granuleux. Depuis lors, Drake est devenu Red Robin pour se lancer seul. Stephanie Brown , également connue sous le nom de Spoiler et finalement Batgirl , a été brièvement la quatrième et seule femme Robin, bien qu'elle ait été licenciée pour avoir désobéi aux ordres. Le cinquième et plus récent Robin est Damian Wayne , le fils de Batman avec Talia al Ghul , un enfant agressif formé par la Ligue des Assassins .pendant des années qui est formé en tant que super-héros pour l'aider à trouver la rédemption. L'identité de Robin a été associée à un certain nombre d'équipes, dont les Teen Titans et Young Justice . Robin as Dick Grayson a été créé par Bob Kane , Bill Finger et Jerry Robinson , apparaissant pour la première fois dans Detective Comics #38 . ( 1940 ) Jason Todd est apparu pour la première fois en tant que Robin dans Batman #368 . ( 1984 ) Tim Drake est devenu Robin dans Batman #457 . ( 1990 )Stephanie Brown a pris le poste dans Robin # 126 . ( 2004 ) Damian Wayne est Robin depuis Batman : Battle for the Cowl #3 . ( 2009 )"
+  },
+  {
+    "name": "Batgirl",
+    "id": "3",
+    "firstname": "Barbara",
+    "lastname": "Gordon",
+    "current": " 2011 - present",
+    "gender": "female",
+    "type": "Hero",
+    "featured_image": "./images/Batgirl_Vol_5_32_Textless_Variant.webp",
+    "description": "Batgirl est l'un des acolytes deBatman et un membre de la famille Batman similaire à Robin . Plusieurs femmes ont occupé ce poste au fil des ans. La Batgirl originale à l' âge d'argent était Bette Kane . Cela a ensuite été retiré de la continuité et le personnage a été réintroduit sous le pseudonyme Flamebird . La Batgirl la plus connue est Barbara Gordon , la nièce du commissaire Gordon , et l'originale dans la continuité moderne . Elle a été Batgirl pendant de nombreuses années jusqu'à ce que le Joker lui tire une balle dans la colonne vertébrale pendant Killing Jokeet la paralysa. Barbara a toujours combattu le crime depuis son fauteuil roulant en tant qu'Oracle , un super-hacker international et un expert informatique inestimable pour les héros du monde entier. Helena Bertinelli , mieux connue sous le nom de Huntress , a pris le poste pendant No Man's Land mais l'a ensuite abandonné. Cassandra Cain , fille de l'assassin David Cain , est devenue la prochaine Batgirl tout en cherchant la rédemption pour les crimes de son père. Elle a finalement été manipulée pour devenir voyou par Deathstroke et a abandonné le capot après s'être remise de sa dépression mentale. Le téléporteur MisfitElle s'est brièvement appelée Batgirl lorsqu'elle a commencé sa carrière de justicière dans la rue, bien qu'elle ait changé de nom après avoir été prise en charge par les oiseaux de proie . Stephanie Brown , connue à l'origine sous le nom de Spoiler et ancienne Robin , est devenue Batgirl après la mort apparente de Batman. Gordon est depuis revenu au poste au sein du DCnU après une reprise."
+  },
+  {
+    "name": "Penguin",
+    "id": "3",
+    "firstname": "Oswald",
+    "lastname": "Cobblepot",
+    "current": " 2011 - present",
+    "gender": "male",
+    "type": "Vilain",
+    "featured_image": "./images/Batman_Vol_2_23.3_The_Penguin_Textless.webp",
+    "description": "Le Pingouin est un seigneur du crime de Gotham City avec une apparence physique déformée qui est un ennemi fréquent de Batman . Malgré l' apparence de pingouin qui a conduit à son surnom, c'est un génie criminel impitoyablement rusé qui opère depuis sa boîte de nuit l' Iceberg Lounge . Ayant fait face aux moqueries de sa stature dès son plus jeune âge, il s'est consacré à inspirer le respect et la peur à travers ses exploits. Son arme standard est un parapluie avec différents gadgets mortels et autrement cachés à l'intérieur. Il a été membre de l' Injustice League , de la Secret Society of Super-Villains et du Suicide Squad .Penguin a été créé par Bob Kane et Bill Finger , apparaissant pour la première fois dans Detective Comics #58 en 1941 ."
+  
+  },
+  {
+    "name": "Joker",
+    "id": "3",
+    "firstname": "_",
+    "lastname": "_",
+    "current": " 2011 - present",
+    "gender": "male",
+    "type": "Vilain",
+    "featured_image": "./images/Batman_Vol_2_23.1_The_Joker_Textless.webp",
+    "description": "Le Pingouin est un seigneur du crime de Gotham City avec une apparence physique déformée qui est un ennemi fréquent de Batman . Malgré l' apparence de pingouin qui a conduit à son surnom, c'est un génie criminel impitoyablement rusé qui opère depuis sa boîte de nuit l' Iceberg Lounge . Ayant fait face aux moqueries de sa stature dès son plus jeune âge, il s'est consacré à inspirer le respect et la peur à travers ses exploits. Son arme standard est un parapluie avec différents gadgets mortels et autrement cachés à l'intérieur. Il a été membre de l' Injustice League , de la Secret Society of Super-Villains et du Suicide Squad .Penguin a été créé par Bob Kane et Bill Finger , apparaissant pour la première fois dans Detective Comics #58 en 1941 ."
+  }
+]
