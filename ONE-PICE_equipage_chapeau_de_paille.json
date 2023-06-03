@@ -1,0 +1,83 @@
+[
+    {
+      "nom": "Monkey D. Luffy",
+      "occupation": "Capitaine des Chapeaux de paille",
+      "fruitDuDémon": "Gomu Gomu no Mi",
+      "équipage": "Chapeaux de paille",
+      "prime": "1,500,000,000 Berry",
+      "description": "Luffy est le protagoniste principal de One Piece. Il est un pirate enjoué et imprévisible avec le pouvoir du Fruit du Démon Gomu Gomu, ce qui lui permet d'étirer son corps comme du caoutchouc.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Monkey_D._Luffy_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/270?cb=20170617172443&path-prefix=fr"
+    },
+    {
+      "nom": "Roronoa Zoro",
+      "occupation": "Sabreur",
+      "fruitDuDémon": "Aucun",
+      "équipage": "Chapeaux de paille",
+      "prime": "320,000,000 Berry",
+      "description": "Zoro est le bretteur de l'équipage des Chapeaux de paille. Il est un épéiste habile et cherche à devenir le plus grand sabreur du monde. Il se bat en utilisant le style de combat à trois épées.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/22/Roronoa_Zoro_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/250?cb=20140926142818&path-prefix=fr"
+    },
+    {
+      "nom": "Nami",
+      "occupation": "Navigatrice",
+      "fruitDuDémon": "Clima-Tact",
+      "équipage": "Chapeaux de paille",
+      "prime": "66,000,000 Berry",
+      "description": "Nami est la navigatrice de l'équipage des Chapeaux de paille. Elle est habile en cartographie et en météorologie, ce qui lui permet de guider le navire à travers les mers dangereuses. Elle utilise également le Clima-Tact pour manipuler les conditions météorologiques.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Nami_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/270?cb=20181021130911&path-prefix=fr"
+    },
+    {
+      "nom": "Usopp",
+      "occupation": "Tireur d'élite",
+      "fruitDuDémon": "Aucun",
+      "équipage": "Chapeaux de paille",
+      "prime": "200,000,000 Berry",
+      "description": "Usopp est un tireur d'élite et un excellent menteur. Il utilise son ingéniosité pour fabriquer des armes et des gadgets pour aider son équipage. Bien qu'il soit peureux, il montre souvent un courage surprenant dans les moments critiques.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Usopp_Anime_Post_Ellipse_Infobox.png/revision/latest?cb=20141216165233&path-prefix=fr"
+    },
+    {
+      "nom": "Sanji",
+      "occupation": "Cuisinier",
+      "fruitDuDémon": "Aucun",
+      "équipage": "Chapeaux de paille",
+      "prime": "330,000,000 Berry",
+      "description": "Sanji est le cuisinier de l'équipage des Chapeaux de paille. Il est un combattant redoutable qui utilise un style de combat basé sur les jambes. Il est également un gentleman qui se montre toujours respectueux envers les femmes.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Sanji_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/270?cb=20170625123757&path-prefix=fr"
+    },
+      {
+      "nom": "Tony Tony Chopper",
+      "occupation": "Médecin",
+      "fruitDuDémon": "Hito Hito no Mi",
+      "équipage": "Chapeaux de paille",
+      "prime": "100 Berry",
+      "description": "Tony Tony Chopper est un renne qui a mangé le Fruit du Démon Hito Hito, ce qui lui a permis d'acquérir une forme humaine. Il est le médecin de l'équipage et possède une grande expertise en soins médicaux.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/7/77/Tony_Tony_Chopper_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/270?cb=20130525185102&path-prefix=fr"
+    },
+    {
+      "nom": "Nico Robin",
+      "occupation": "Archéologue",
+      "fruitDuDémon": "Hana Hana no Mi",
+      "équipage": "Chapeaux de paille",
+      "prime": "130,000,000 Berry",
+      "description": "Nico Robin est une archéologue et ancienne membre de Baroque Works. Elle est la seule survivante de l'île d'Ohara et possède une connaissance approfondie de l'Histoire. Son pouvoir du Fruit du Démon Hana Hana lui permet de faire pousser des parties de son corps sur différentes surfaces.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Nico_Robin_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/270?cb=20160507112552&path-prefix=fr"
+    },
+    {
+      "nom": "Franky",
+      "occupation": "Charpentier",
+      "fruitDuDémon": "Aucun",
+      "équipage": "Chapeaux de paille",
+      "prime": "94,000,000 Berry",
+      "description": "Franky est un charpentier et un cyborg puissant. Il a modifié son corps pour le renforcer et possède de nombreuses armes intégrées. Il est responsable de la construction et de l'entretien du Thousand Sunny, le navire des Chapeaux de paille.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Franky_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/270?cb=20190313140252&path-prefix=fr"
+    },
+    {
+      "nom": "Brook",
+      "occupation": "Musicien",
+      "fruitDuDémon": "Yomi Yomi no Mi",
+      "équipage": "Chapeaux de paille",
+      "prime": "83,000,000 Berry",
+      "description": "Brook est un musicien et un épéiste squelette. Après sa mort, il a mangé le Fruit du Démon Yomi Yomi, ce qui lui a permis de revenir à la vie en tant que squelette. Il est connu pour sa passion pour la musique et son style de combat unique.",
+      "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Brook_Anime_Post_Ellipse_Infobox.png/revision/latest/scale-to-width-down/270?cb=20180717131245&path-prefix=fr"
+    }
+  ]
