@@ -6,7 +6,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 1500000000,
         "description": "Luffy est le protagoniste principal de One Piece. Il est un pirate enjoué et imprévisible avec le pouvoir du Fruit du Démon Gomu Gomu, ce qui lui permet d'étirer son corps comme du caoutchouc.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Luffy.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Luffy.jpg"
     },
     {
         "nom": "Roronoa Zoro",
@@ -15,7 +15,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 320000000,
         "description": "Zoro est le bretteur de l'équipage des Chapeaux de paille. Il est un épéiste habile et cherche à devenir le plus grand sabreur du monde. Il se bat en utilisant le style de combat à trois épées.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Zoro.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Zoro.jpg"
     },
     {
         "nom": "Nami",
@@ -24,7 +24,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 66000000,
         "description": "Nami est la navigatrice de l'équipage des Chapeaux de paille. Elle est habile en cartographie et en météorologie, ce qui lui permet de guider le navire à travers les mers dangereuses. Elle utilise également le Clima-Tact pour manipuler les conditions météorologiques.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Nami.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Nami.jpg"
     },
     {
         "nom": "Usopp",
@@ -33,7 +33,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 200000000,
         "description": "Usopp est un tireur d'élite et un excellent menteur. Il utilise son ingéniosité pour fabriquer des armes et des gadgets pour aider son équipage. Bien qu'il soit peureux, il montre souvent un courage surprenant dans les moments critiques.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Usopp.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Usopp.jpg"
     },
     {
         "nom": "Sanji",
@@ -42,7 +42,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 330000000,
         "description": "Sanji est le cuisinier de l'équipage des Chapeaux de paille. Il est un combattant redoutable qui utilise un style de combat basé sur les jambes. Il est également un gentleman qui se montre toujours respectueux envers les femmes.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Sanji.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Sanji.jpg"
     },
     {
         "nom": "Tony Tony Chopper",
@@ -51,7 +51,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 100,
         "description": "Tony Tony Chopper est un renne qui a mangé le Fruit du Démon Hito Hito, ce qui lui a permis d'acquérir une forme humaine. Il est le médecin de l'équipage et possède une grande expertise en soins médicaux.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Chopper.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Chopper.jpg"
     },
     {
         "nom": "Nico Robin",
@@ -60,7 +60,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 130000000,
         "description": "Nico Robin est une archéologue et ancienne membre de Baroque Works. Elle est la seule survivante de l'île d'Ohara et possède une connaissance approfondie de l'Histoire. Son pouvoir du Fruit du Démon Hana Hana lui permet de faire pousser des parties de son corps sur différentes surfaces.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Robin.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Robin.jpg"
     },
     {
         "nom": "Franky",
@@ -69,7 +69,7 @@
         "équipage": "Chapeaux de paille",
         "prime": 94000000,
         "description": "Franky est un charpentier et un cyborg puissant. Il a modifié son corps pour le renforcer et possède de nombreuses armes intégrées. Il est responsable de la construction et de l'entretien du Thousand Sunny, le navire des Chapeaux de paille.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Franky.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Franky.jpg"
     },
     {
         "nom": "Brook",
@@ -78,6 +78,6 @@
         "équipage": "Chapeaux de paille",
         "prime": 83000000,
         "description": "Brook est un musicien et un épéiste squelette. Après sa mort, il a mangé le Fruit du Démon Yomi Yomi, ce qui lui a permis de revenir à la vie en tant que squelette. Il est connu pour sa passion pour la musique et son style de combat unique.",
-        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/Super-Hero-API/api/one-piece/op_images/Brook.jpg"
+        "image": "https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/one-piece/op_images/Brook.jpg"
     }
 ]
