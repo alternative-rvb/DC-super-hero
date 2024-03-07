@@ -1,4 +1,4 @@
-# DC-Super-Hero-API
+# DC-Super-Her
 
 CDN: `https://cdn.jsdelivr.net/gh/alternative-rvb/DC-Super-Hero-API@master/api/dc/heroes.json`
 
